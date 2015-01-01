@@ -12,12 +12,12 @@
 <link rel="icon" type="image/png" href="/images/favicon-ios.png">
 <style>
 html, body {
-height: 100%;
-margin: 0px;
-padding: 0px;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
 }
 body {
-background: #000;
+	background: #000;
 	font-family: HelveticaNeue, Helvetica, Arial, sans-serif;
 	font-size: 9pt;
 	color: #FFF;
