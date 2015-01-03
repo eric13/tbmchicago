@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>The Birthday Massacre Broken Minds 2006 Bootleg</title>
 <meta name="keywords" content="birthday, massacre, birthday massacre, the birhtday massacre, chicago, live, bootleg, dvd, eric thirteen, banners, banner, icon, icons, downloads, goth, industrial, nuwave, TBMChicago.com, synth">
-<meta name="description" content="The single largest Birthday Massacre site. Ever.">
+<meta name="description" content="The Birthday Massacre 2006 concert film. Free download! Directed by Eric Thirteen. Hosted on the single largest TBM site ever.">
 <meta name="verify-v1" content="Q/KZDUfuEV+mkjJD7oCcIq2BhH/GBvmDIZhRhgeIXDE=">
 <meta name="viewport" content="width=770">
 <link rel="apple-touch-icon" href="/images/favicon-ios.png" />
@@ -159,7 +159,7 @@ a:hover {
 				<br />
 				<div id="unratedSymbol">UR</div>Unrated
 
-				<p>Avaliable for free, The Birthday Massacre's Live 2006 Bootleg is a set of twelve tracks from a single show during the Broken Minds tour. It was released at a time when no full concerts were available - we didn't all carry video recorders in our pockets yet. This footage acts as a gritty snapshot of that era in the band's history.</p>
+				<p>Available for free, The Birthday Massacre's Live 2006 Bootleg is a set of twelve tracks from a single show during the Broken Minds tour. It was released at a time when no full concerts were available - we didn't all carry video recorders in our pockets yet. This footage acts as a gritty snapshot of that era in the band's history.</p>
 
 				<p>The original edit was created in 2007 for a run of 25 hand numbered DVDs. It was a personal gift to the band, and no further copies were made.  A YouTube "making of" video sparked enough interest to prompt an agreement to release the entire concert film online.  In 2015, the concert was remastered in HD with a new 5.1 surround mix.
 
