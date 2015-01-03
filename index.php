@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html>
 <!-- Written by Eric Thirteen -->
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>TBMChicago: THE BIRTHDAY MASSACRE</title>
+<title>The Birthday Massacre Broken Minds 2006 Bootleg</title>
 <meta name="keywords" content="birthday, massacre, birthday massacre, the birhtday massacre, chicago, live, bootleg, dvd, eric thirteen, banners, banner, icon, icons, downloads, goth, industrial, nuwave, TBMChicago.com, synth">
 <meta name="description" content="The single largest Birthday Massacre site. Ever.">
 <meta name="verify-v1" content="Q/KZDUfuEV+mkjJD7oCcIq2BhH/GBvmDIZhRhgeIXDE=">
@@ -21,6 +22,8 @@ body {
 	font-family: HelveticaNeue, Helvetica, Arial, sans-serif;
 	font-size: 9pt;
 	color: #FFF;
+}
+#all {
 	min-height: 100%;
 	position: relative;
 }
@@ -57,7 +60,7 @@ body {
 	border-radius: 3px;
 	padding: 6px 0px;
 	display: inline-block;
-	margin: 60px 10px 20px 10px;
+	margin: 50px 10px 40px 10px;
 }
 .action:active {
 	border: 2px solid #AAA;
@@ -87,10 +90,10 @@ a {
 	font-weight: bold;
 }
 a:link, a:active, a:visited {
-	color: #9900FF;
+	color: #9b61ed;
 }
 a:hover {
-	color: #FF33FF;
+	color: #e077ed;
 }
 .credit div {
 	display: inline-block;
@@ -128,80 +131,84 @@ a:hover {
 
 <body>
 
-<div id="main">
+<div id="all">
 
-	<div>
+	<div id="main">
 
-		<div id="cover"><a href="../images/the-birthday-massacre-broken-minds-2006-bootleg.jpg"><img src="../images/the-birthday-massacre-broken-minds-2006-bootleg_small.jpg" /></a></div>
+		<div>
 
-		<div id="info">
+			<div id="cover"><a href="../images/the-birthday-massacre-broken-minds-2006-bootleg.jpg"><img src="../images/the-birthday-massacre-broken-minds-2006-bootleg_small.jpg" alt="The Birthday Massacre Broken Minds 2006 Bootleg" /></a></div>
 
-			<h1>The Birthday Massacre</br>Broken Minds 2006 Bootleg</h1>
+			<div id="info">
 
-			<div class="credit">
-				<div class="creditTitle">Price</div>
-				<div>Free</div>
-			</div>
-			<div class="credit">
-				<div class="creditTitle">Runtime</div>
-				<div>51 minutes</div>
-			</div>
-			<div class="credit">
-				<div class="creditTitle">Director</div>
-				<div>Eric Thirteen</div>
-			</div>
+				<h1>The Birthday Massacre<br />Broken Minds 2006 Bootleg</h1>
 
-			<br />
-			<div id="unratedSymbol">UR</div>Unrated
+				<div class="credit">
+					<div class="creditTitle">Price</div>
+					<div>Free</div>
+				</div>
+				<div class="credit">
+					<div class="creditTitle">Runtime</div>
+					<div>51 minutes</div>
+				</div>
+				<div class="credit">
+					<div class="creditTitle">Director</div>
+					<div><a href="http://ericthirteen.com">Eric Thirteen</a></div>
+				</div>
 
-			<p>Avaliable for free, The Birthday Massacre's Live 2006 Bootleg is a set of twelve tracks from the Broken Minds tour. Shot, cut, and proudced by TBMChicago's Eric Thirteen, the songs were all captured during one of the many 2006 performances he attended while helping promote the nation-wide tour. After shelving the footage for an entire year, it was finally edited during the corse of a single week. Marathon editing sessions where made in an effort to complete the DVD in time to give the final copy to the band at their last show of the 2007 tour.</p>
+				<br />
+				<div id="unratedSymbol">UR</div>Unrated
 
-			<p>Only twenty-five copies were made, under the agreement that only the band, Eric, and their mutual friends would recieve them. A YouTube video showing a bit of the process and final product was posted shortly after. An incredible amount of interest in the "Making of" video eventually prompted an agreement to release the entire concert online.</p>
+				<p>Avaliable for free, The Birthday Massacre's Live 2006 Bootleg is a set of twelve tracks from a single show during the Broken Minds tour. It was released at a time when no full concerts were available - we didn't all carry video recorders in our pockets yet. This footage acts as a gritty snapshot of that era in the band's history.</p>
 
-			<div class="credit">
-				<div class="creditTitle">Links</div>
-				<div><a href="http://imdb.com/title/tt2332817">IMDB</a> &nbsp; <a href="https://youtube.com/watch?v=sw-3_uJ7Ps0&list=PL72FC857C432A6776">YouTube</a></div>
-			</div>
+				<p>The original edit was created in 2007 for a run of 25 hand numbered DVDs. It was a personal gift to the band, and no further copies were made.  A YouTube "making of" video sparked enough interest to prompt an agreement to release the entire concert film online.  In 2015, the concert was remastered in HD with a new 5.1 surround mix.
 
-			<div class="credit">
-				<div class="creditTitle">Producer</div>
-				<div>Eric Thirteen</div>
-			</div>
+				<div class="credit">
+					<div class="creditTitle">Links</div>
+					<div><a href="http://imdb.com/title/tt2332817">IMDB</a> &nbsp; <a href="http://youtube.com/playlist?list=PLR6CM7iCfNZxOb_NgoSqk9HGTF6266x2P">YouTube</a> &nbsp; <a href="http://bit.ly/1F0Jk2c">Torrent</a></div>
+				</div>
 
-			<div class="credit">
-				<div class="creditTitle">Stars</div>
-				<div>Chibi, Rainbow, M Falcore, Rhim, Aslan, Owen</div>
-			</div>
+				<div class="credit">
+					<div class="creditTitle">Producer</div>
+					<div>Eric Thirteen</div>
+				</div>
 
-			<div class="credit">
-				<div class="creditTitle">Special Thanks</div>
-				<div>Bootleg Greg</div>
-			</div>
+				<div class="credit">
+					<div class="creditTitle">Stars</div>
+					<div>Chibi, Rainbow, M Falcore, Rhim, Aslan, Owen</div>
+				</div>
 
-			<div class="credit">
-				<div class="creditTitle">Editor</div>
-				<div>Eric Thirteen</div>
+				<div class="credit">
+					<div class="creditTitle">Special Thanks</div>
+					<div>Bootleg Greg</div>
+				</div>
+
+				<div class="credit">
+					<div class="creditTitle">Editor</div>
+					<div>Eric Thirteen</div>
+				</div>
+
 			</div>
 
 		</div>
 
+		<a href="http://tbmchicago.com/media/video/the-birthday-massacre-broken-minds-2006-bootleg.m4v"><div class="action">Get the Film</div></a>
+		<a href="http://tbmchicago.com/home"><div class="action">Enter TBMChicago</div></a>
+
 	</div>
 
-	<a href="https://youtube.com/watch?v=sw-3_uJ7Ps0&list=PL72FC857C432A6776"><div class="action">Get the Film</div></a>
-	<a href="http://tbmchicago.com/home"><div class="action">Enter TBMChicago</div></a>
+	<div id="pageBottom">
 
-</div>
+		<div id="bottom">
+			<div><a href="http://doublefeatureshow.com"><img src="../images/bottom_df.jpg" alt="Double Feature" /><br />Double Feature</a></div>
+			<div><a href="http://thebirthdaymassacre.com"><img src="../images/bottom_official.jpg" alt="Official Site" /><br />Official Site</a></div>
+			<div><a href="http://awesomestart.com/tbm"><img src="../images/bottom_tbmstart.jpg" alt="TBM Startpage" /><br />TBM Startpage</a></div>
+			<div><a href="http://www.youtube.com/playlist?list=PL72FC857C432A6776"><img src="../images/bottom_videos.jpg" alt="More Videos" /><br />More Videos</a></div>
+		</div>
 
-<div id="pageBottom">
+		<div id="footer">Last updated January 1, 2015.</div>
 
-	<div id="bottom">
-		<div><a href="http://doublefeatureshow.com"><img src="../images/bottom_df.jpg" /><br />Double Feature</a></div>
-		<div><a href="http://thebirthdaymassacre.com"><img src="../images/bottom_official.jpg" /><br />Official Site</a></div>
-		<div><a href="http://awesomestart.com/tbm"><img src="../images/bottom_tbmstart.jpg" /><br />TBM Startpage</a></div>
-		<div><a href="http://www.youtube.com/playlist?list=PL72FC857C432A6776"><img src="../images/bottom_videos.jpg" /><br />More Videos</a></div>
 	</div>
-
-	<div id="footer">Last updated January 1, 2015. Sponsored by <a href="http://doublefeatureshow.com">Double Feature</a> • <a href="http://ericthirteen.com">Eric Thirteen</a> • <a href="http://awesomestart.com">AwesomeStart</a></div>
 
 </div>
 
