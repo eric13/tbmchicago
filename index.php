@@ -165,7 +165,7 @@ a:hover {
 
 				<div class="credit">
 					<div class="creditTitle">Links</div>
-					<div><a href="http://imdb.com/title/tt2332817">IMDB</a> &nbsp; <a href="http://youtube.com/playlist?list=PLR6CM7iCfNZxOb_NgoSqk9HGTF6266x2P">YouTube</a> &nbsp; <a href="http://bit.ly/1F0Jk2c">Torrent</a></div>
+					<div><a href="http://imdb.com/title/tt2332817">IMDB</a> &nbsp; <a href="http://youtube.com/playlist?list=PLR6CM7iCfNZxOb_NgoSqk9HGTF6266x2P">YouTube</a> &nbsp; <a href="https://kickass.so/the-birthday-massacre-broken-minds-2006-bootleg-hd-5-1-t10035793.html">Torrent</a></div>
 				</div>
 
 				<div class="credit">
