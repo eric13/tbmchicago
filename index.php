@@ -193,7 +193,7 @@ a:hover {
 		</div>
 
 		<a href="http://tbmchicago.com/media/video/the-birthday-massacre-broken-minds-2006-bootleg.m4v"><div class="action">Get the Film</div></a>
-		<a href="http://tbmchicago.com/home"><div class="action">Enter TBMChicago</div></a>
+		<a href="http://tbmchicago.com/main"><div class="action">Enter TBMChicago</div></a>
 
 	</div>
 
