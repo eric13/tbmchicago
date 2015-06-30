@@ -200,13 +200,13 @@ a:hover {
 	<div id="pageBottom">
 
 		<div id="bottom">
-			<div><a href="http://doublefeatureshow.com"><img src="../images/bottom_df.jpg" alt="Double Feature" /><br />Double Feature</a></div>
+			<div><a href="https://doublefeature.fm"><img src="../images/bottom_df.jpg" alt="Double Feature" /><br />Double Feature</a></div>
 			<div><a href="http://thebirthdaymassacre.com"><img src="../images/bottom_official.jpg" alt="Official Site" /><br />Official Site</a></div>
 			<div><a href="http://awesomestart.com/tbm"><img src="../images/bottom_tbmstart.jpg" alt="TBM Startpage" /><br />TBM Startpage</a></div>
 			<div><a href="http://www.youtube.com/playlist?list=PL72FC857C432A6776"><img src="../images/bottom_videos.jpg" alt="More Videos" /><br />More Videos</a></div>
 		</div>
 
-		<div id="footer">Last updated January 1, 2015.</div>
+		<div id="footer">Last updated June 30, 2015.</div>
 
 	</div>
 
